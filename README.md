@@ -11,4 +11,4 @@
 
 # Some Interview Questions For Azure Role:
 ## In Azure Cloud Service, What are the Cloud Servise Role?
-* 
+* Azure Cloud Servise is an example of a Plateform as a Service (PaaS). The Cloud Servise are hosted on virtual machine (VMs).
