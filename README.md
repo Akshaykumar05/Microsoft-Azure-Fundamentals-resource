@@ -14,3 +14,6 @@
 * Azure Cloud Servise is an example of a Plateform as a Service (PaaS). The Cloud Servise are hosted on virtual machine (VMs).
 * You have more controls over the VMs.
 * You can install your own software on VMs that use Azure Cloud Servises and you can access them remotely.
+* Azure Cloud Servise role are of two types:
+1. Web Role
+2. Worker Role
