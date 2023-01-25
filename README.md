@@ -7,3 +7,8 @@
 1. Microsoft Learn Section ( from its website itself)
 2. Udemy course
 3. ExamTopics for question practice.
+
+
+# Some Interview Questions For Azure Role:
+## In Azure Cloud Service, What are the Cloud Servise Role?
+* 
