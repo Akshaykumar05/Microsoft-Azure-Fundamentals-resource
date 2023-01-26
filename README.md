@@ -17,3 +17,7 @@
 * Azure Cloud Servise role are of two types:
 1. Web Role
 2. Worker Role
+
+### Web Role: 
+* It automatically deploys and host your apps through Internet Infra Service (IIS).
+
