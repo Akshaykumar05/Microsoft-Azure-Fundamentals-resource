@@ -22,3 +22,7 @@
 * It automatically deploys and host your apps through Internet Infra Service (IIS).
 * A web role is basically used to deploy a website, usinglanguage supported by the IIS plateform likePHP, .NET etc
 * It is configured and customised to run web application.
+### Worker Role:
+* It does not use IIS, and run your app standalone.
+* A worker role is more like a helpto the web role.
+* It is used to execute background process unlike the web role which is used to deploy the website.
