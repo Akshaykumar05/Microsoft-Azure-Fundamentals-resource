@@ -20,4 +20,5 @@
 
 ### Web Role: 
 * It automatically deploys and host your apps through Internet Infra Service (IIS).
-
+* A web role is basically used to deploy a website, usinglanguage supported by the IIS plateform likePHP, .NET etc
+* It is configured and customised to run web application.
