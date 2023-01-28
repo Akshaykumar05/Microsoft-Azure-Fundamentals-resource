@@ -43,3 +43,10 @@
 - Premium solid-state drives (SSD)
 - Standard SSD
 - Standard Hard Disk drive (HHD)
+
+## Q4. What is Azure Virtual Network (VNet)
+* Azure VNet is a network or environment that can be used to run VMs and applications in the cloud.
+
+
+
+
