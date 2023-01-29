@@ -48,4 +48,6 @@
 * Azure VNet is a network or environment that can be used to run VMs and applications in the cloud.
 * When it created, the service and VMs within the azure network interact securily with each-other.
 
+## Q5. What is VNet Peering?
+* VNet peering enable you to seamlessly connect two or morevirtual network in Azure.
 
