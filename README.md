@@ -46,7 +46,6 @@
 
 ## Q4. What is Azure Virtual Network (VNet)
 * Azure VNet is a network or environment that can be used to run VMs and applications in the cloud.
-
-
+* When it created, the service and VMs within the azure network interact securily with each-other.
 
 
