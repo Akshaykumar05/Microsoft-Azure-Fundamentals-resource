@@ -51,3 +51,5 @@
 ## Q5. What is VNet Peering?
 * VNet peering enable you to seamlessly connect two or morevirtual network in Azure.
 
+## Q6. What is NSG?
+* A Network Security Group contains security rules that  allow or deny inbound network traffic to or outbound network traffic from, server types of Azure resources.
