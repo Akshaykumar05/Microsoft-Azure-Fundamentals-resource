@@ -53,3 +53,7 @@
 
 ## Q6. What is NSG?
 * A Network Security Group contains security rules that  allow or deny inbound network traffic to or outbound network traffic from, server types of Azure resources.
+
+## Q7. What is Azure AD?
+* Azure Active Directory is a cloud based identity and access management servise.
+* This service helps your employees access external resources, such as Microsoft 365, Azure Portal and thousands of other SaaS applications.
